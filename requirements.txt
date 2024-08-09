@@ -90,7 +90,6 @@ matplotlib==3.8.4
 matplotlib-inline 
 mdurl==0.1.2
 mistune 
-mkl-fft
 mkl-random 
 mkl-service==2.4.0
 mlflow==2.14.1
