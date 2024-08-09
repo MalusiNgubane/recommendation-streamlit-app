@@ -36,8 +36,6 @@ decorator
 defusedxml
 Deprecated==1.2.14
 docker==7.1.0
-en-core-web-md 
-en-core-web-sm 
 entrypoints==0.4
 executing
 fastjsonschema
