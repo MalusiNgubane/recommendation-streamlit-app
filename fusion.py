@@ -182,7 +182,7 @@ def main():
             anime_sections = {
                 "Your next watch": [
                     {"title": "Freeza: The beginning", "image": "freeza.png", "video": "path_to_video1.mp4"},
-                    {"title": "Dragen Balls", "image": "dragenballs.jpg", "video": "path_to_video2.mp4"},
+                    {"title": "Dragon Balls", "image": "dragenballs.jpg", "video": "path_to_video2.mp4"},
                     {"title": "Freeza's Return", "image": "freeza2.png", "video": "path_to_video2.mp4"},
                     {"title": "War God", "image": "anime1.jpg", "video": "path_to_video1.mp4"},
                     # Add more anime details here...
